@@ -16,6 +16,6 @@
     "swiftmailer/swiftmailer": "5.4.*",
     "pimple/pimple": "3.0.*",
     "silex/silex": "1.2.*",
-    "twig/twig": "v1.18.*"
+    "twig/twig": "@stable"
   }
 }
