@@ -14,8 +14,7 @@
     "php":">5.4.0",
     "ext-pdo_mysql":"*",
     "swiftmailer/swiftmailer": "5.4.*",
-    "pimple/pimple": "3.0.*",
-    "silex/silex": "1.2.*",
+    "silex/silex": "@stable",
     "twig/twig": "@stable"
   }
 }
